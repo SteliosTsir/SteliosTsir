@@ -5,7 +5,3 @@
 -         My academic email :  csd5124@csd.uoc.gr
 -         My personal email : stts.xiaomi@gmail.com
 
-<!---
-SteliosTsir/SteliosTsir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
